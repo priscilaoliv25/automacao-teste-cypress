@@ -1,0 +1,15 @@
+{
+  "name": "atividade-cypress",
+  "version": "1.0.0",
+  "description": "https://docs.google.com/document/d/1UUg_niHIUD8q6nxejjYGmgliQGpX_odG/edit?usp=sharing&ouid=108012151289239450345&rtpof=true&sd=true",
+  "main": "index.js",
+  "scripts": {
+    "e2e": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.17.3"
+  }
+}
